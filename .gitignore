@@ -1,0 +1,9 @@
+.mypy_cache
+.vscode
+__pycache__
+cnn_table
+cnn.txt
+liveua_table
+liveua.txt
+minuta_table
+minuta.txt
