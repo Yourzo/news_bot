@@ -5,7 +5,7 @@ from cogs.news_cog import NewsCog
 from cogs.errorCog import ErrorCog
 
 
-TOKEN = 'OTgxODYxMjE3NjA4MDI0MDk0.GLPaMN.m33sog4JVffxhn-wHD1VCXuytutxceHrL-AASw'
+TOKEN = ''
 DESCR = 'FOR AUTOMATED FROM SITES RUN: >autonews, prefix: ">", this bitch is painfully coded, so bad omg'
 
 
